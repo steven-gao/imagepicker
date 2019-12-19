@@ -37,7 +37,7 @@
 
         <com.lzy.imagepicker.view.SuperCheckBox
             android:id="@+id/cb_check"
-            style="@style/SuperCheckboxTheme"
+            android:button="@drawable/selector_item_checked"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:clickable="false"
